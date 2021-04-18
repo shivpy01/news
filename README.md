@@ -3,4 +3,6 @@
 
 python news django app
 
-run by installing django 3.0.3, requests, and get api key from newsapi.org
+run by installing requiements.txt
+
+[live preview](https://my-news-django-app.herokuapp.com/)
