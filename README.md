@@ -3,7 +3,7 @@
 
 python news django app
 
-add api key from [newsapi.org](newsapi.org)
+add api key from [newsapi](newsapi.org)
 
 run by installing requiements.txt
 
